@@ -1,75 +1,30 @@
 ---
-title: "Welcome to Jekyll!"
-published: false
+title: "My Experience in the Tasks"
+published: true
+
 ---
 
-**Hello world**, this is my first Jekyll blog post.
 
-I hope you like it!
+## Introduction:
+  - A.Siddharth Reddy
+  - From : Warangal, Telangana
+  - Branch : S1 ELC
+  - Amrita Vishwa Vidyapeetham, Amritapuri
 
-# Highlighter
-## Ruby
-```ruby
-def show
-  puts "Outputting a very lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong line"
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-```
+# Experience:
+As a student with no basic knowlegde about *coding* and how to do the tasks at first I was a bit worried whether I will be able to complete the given tasks or not.
 
-## Php
-```php
-<?php
-  print("Hello {$world}");
-?>
-```
+After looking at the tasks I was afraid. But slowly as I learned some asics of code and how everything works I got a bit of confidence.
 
-## Java
-```java
-public class java {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-    }
-}
-```
+  The meeting of our club that explained how to do the stuff like linux, vscode, git, github, etc. This helped me in starting my tasks. Now I was able to start doing my tasks. Now i completed the following tasks:
 
-## HTML
-```html
-<html>
-  <head><title>Title!</title></head>
-  <body>
-    <p id="foo">Hello, World!</p>
-    <script type="text/javascript">var a = 1;</script>
-    <style type="text/css">#foo { font-weight: bold; }</style>
-  </body>
-</html>
-```
+- Task-00 : Installing ubuntu
+- Task-01 : Starring all amFOSS repos
+- Task-02 : Basics of terminal in ubuntu
+- Task-05 : LetMeSee.c
+- Task-09 : Personal Website
+- Task-14 : Bandit Overthewire
 
-## Console
-```console
-# prints "hello, world" to the screen
-~# echo Hello, World
-Hello, World
 
-# don't run this
-~# rm -rf --no-preserve-root /
-```
 
-## Css
-```css
-body {
-    font-size: 12pt;
-    background: #fff url(temp.png) top left no-repeat;
-}
-```
-
-## Yaml
-```yaml
----
-one: Mark McGwire
-two: Sammy Sosa
-three: Ken Griffey
-```
+Using Stackoverflow and googling the stuff helped me alot in learning all these new stuff.

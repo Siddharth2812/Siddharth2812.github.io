@@ -1,5 +1,5 @@
-layout: sidebar
-style: light
+layout: stacked
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -39,7 +39,7 @@ social_media:
   # mastodon: your_username
   # medium: your_username
    stackoverflow: 17237481/siddharth-reddy-anthireddy
-  # telegram: your_username
+   telegram: siddharthreddy1228
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
@@ -56,9 +56,9 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
 
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: SQL
+    web_url: https://github.com/topics/sql
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
   
   - name: Python
     web_url: https://github.com/topics/python
@@ -68,4 +68,6 @@ topics:
     web_url: https://github.com/topics/cpp
     image_url: https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png
 
-    
+  - name: Kotlin
+    web_url: https://github.com/topics/kotlin
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png 
