@@ -22,7 +22,9 @@ After looking at the tasks I was afraid. But slowly as I learned some asics of c
 - Task-01 : Starring all amFOSS repos
 - Task-02 : Basics of terminal in ubuntu
 - Task-05 : LetMeSee.c
+- Task-08 : JSExplorer
 - Task-09 : Personal Website
+- Task-11 : Poster Design
 - Task-14 : Bandit Overthewire
 
 
